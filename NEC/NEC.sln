@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEC.Presentation", "NEC.Presentation\NEC.Presentation.csproj", "{1F6AEAC3-36DB-4BF9-BCFB-F5BD6371A82A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEC.Core", "NEC.Core\NEC.Core.csproj", "{251E7A85-95DB-4E57-8E51-C2FA8A07C917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6AEAC3-36DB-4BF9-BCFB-F5BD6371A82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6AEAC3-36DB-4BF9-BCFB-F5BD6371A82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6AEAC3-36DB-4BF9-BCFB-F5BD6371A82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6AEAC3-36DB-4BF9-BCFB-F5BD6371A82A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251E7A85-95DB-4E57-8E51-C2FA8A07C917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251E7A85-95DB-4E57-8E51-C2FA8A07C917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251E7A85-95DB-4E57-8E51-C2FA8A07C917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251E7A85-95DB-4E57-8E51-C2FA8A07C917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0012B4A5-3FBA-40B5-8D0A-AA1BC142060F}
+	EndGlobalSection
+EndGlobal
