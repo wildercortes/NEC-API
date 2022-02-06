@@ -5,7 +5,7 @@ Pasos:
 
 1 - Clonar el repo y abrirlo con visual studio.
 
-2 - En el appsettings encontraran que pueden agregar su Key api, para autenticarse y poder hacer los request a la api coinmarketcap.
+2 - En el appsettings.json encontraran que pueden agregar su Key api, para autenticarse y poder hacer los request a la api coinmarketcap.
 
 3 - Ejecutar la aplicacion y probarla para comprobar si cumple o no los requisitos solicitados.
 
